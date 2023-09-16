@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>简历模板</title>
+  </head>
+  <body>
+    <table border="1" width="700">
+      <caption>
+        <h1>应试面试登记表</h1>
+      </caption>
+      <!-- first line -->
+      <tr>
+        <td colspan="7" bgcolor="azure"><strong>&nbsp;基本信息</strong></td>
+      </tr>
+      <tr>
+        <th>姓名</th>
+        <th>***</th>
+        <th>性别</th>
+        <th>男</th>
+        <th>出生日期</th>
+        <th>1998/8/2</th>
+        <th rowspan="5"><img src="images/苏轼.jpg" /></th>
+      </tr>
+      <!-- second line -->
+      <tr>
+        <th>政治面貌</th>
+        <th>群众</th>
+        <th>籍贯</th>
+        <th>浙江温州</th>
+        <th>民族</th>
+        <th>汉族</th>
+      </tr>
+      <!-- third line -->
+      <tr>
+        <th>婚姻情况</th>
+        <th>未婚</th>
+        <th>学历</th>
+        <th>高中</th>
+        <th>专业</th>
+        <th>体育</th>
+      </tr>
+      <!-- fourth line -->
+      <tr>
+        <th>联系电话</th>
+        <th colspan="2">18888888</th>
+        <th>邮箱</th>
+        <th colspan="2">**********@qq.com</th>
+      </tr>
+      <!-- fifth line -->
+      <tr>
+        <th>身份证号</th>
+        <th colspan="2">333333333333333</th>
+        <th>通讯地址</th>
+        <th colspan="2"></th>
+      </tr>
+      <!-- sixth line -->
+      <tr>
+        <th rowspan="2">相关证书</th>
+        <th colspan="2">获取时间</th>
+        <th colspan="3">证书名称</th>
+        <th>发放单位</th>
+      </tr>
+      <!-- seventh line -->
+      <tr>
+        <th colspan="2">未知</th>
+        <th colspan="3"></th>
+        <th>未知</th>
+      </tr>
+
+      <tr>
+        <td colspan="7" bgcolor="azure"><strong>&nbsp;教育经历</strong></td>
+      </tr>
+      <tr>
+        <th colspan="2">起止时间</th>
+        <th colspan="2">学校名称</th>
+        <th colspan="2">学历/专业</th>
+        <th>证明人</th>
+      </tr>
+      <tr>
+        
+        <th colspan="2"></th>
+        <th colspan="2"></th>
+        <th colspan="2"></th>
+        <th><br></th>
+        
+      </tr>
+      <tr>
+        <td colspan="7" bgcolor="azure"><strong>&nbsp;工作经历</strong></td>
+      </tr>
+      <tr>
+        <th colspan="2">起止时间</th>
+        <th colspan="2">公司名称</th>
+        <th colspan="2">部门/岗位</th>
+        <th>证明人</th>
+      </tr>
+      <tr>
+        <th colspan="2">20XX.XX.XX</th>
+        <th colspan="2"></th>
+        <th colspan="2"></th>
+        <th></th>
+      </tr>
+      <tr>
+        <th colspan="2">20XX.XX.XX</th>
+        <th colspan="2"></th>
+        <th colspan="2"></th>
+        <th></th>
+      </tr>
+      <tr>
+        <th colspan="2" rowspan="2">离职原因</th>
+        <th colspan="5"><br /></th>
+      </tr>
+      <tr>
+        <th colspan="5"><br /></th>
+      </tr>
+      <tr>
+        <td colspan="7" bgcolor="azure"><strong>&nbsp;家庭信息</strong></td>
+      </tr>
+      <tr>
+        <th>姓名</th>
+        <th>年龄</th>
+        <th>称谓</th>
+        <th colspan="3">工作单位</th>
+        <th>联系方式</th>
+      </tr>
+      <tr>
+        <th><br /></th>
+        <th></th>
+        <th></th>
+        <th colspan="3"></th>
+        <th></th>
+      </tr>
+      <tr>
+        <th><br /></th>
+        <th></th>
+        <th></th>
+        <th colspan="3"></th>
+        <th></th>
+      </tr>
+      <tr>
+        <th>紧急联系人</th>
+        <th></th>
+        <th></th>
+        <th colspan="2">与紧急联系人关系</th>
+        <th colspan="2"></th>
+      </tr>
+      <tr>
+        <td colspan="7" bgcolor="azure"><strong>&nbsp;录取情况</strong></td>
+      </tr>
+      <tr>
+        <th>所属部门</th>
+        <th>职务</th>
+        <th>到岗时间</th>
+        <th>试用期薪资</th>
+        <th>转正薪资</th>
+        <th>上级领导</th>
+        <th>部门负责人</th>
+      </tr>
+      <tr>
+        <th><br></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+      </tr>
+      <tr>
+        <th>人事经理意见</th>
+        <th colspan="3"></th>
+        <th>总经理意见</th>
+        <th colspan="2"></th>
+    </tr>
+    </table>
+      <form>
+        是否因犯罪受过处理：
+      <label>
+        <input type="radio" name="yes" value="True">是
+        <input type="radio" name="yes" value="False">否
+      </label>
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        是否有数额过万的未清偿债务：
+        <label>
+        <input type="radio" name="yes" value="True">是
+        <input type="radio" name="yes" value="False">否
+      </label>
+      </form>
+      <div>本人承诺以上信息均为真实有效，如若造假或情况不实，自愿承担一切后果。</div>
+      <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      本人签名：
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      日期：</div>
+  </body>
+</html>
